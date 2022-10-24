@@ -1,0 +1,6 @@
+main: cc.invictusgames.ilib.ILibBukkitPlugin
+name: iLib
+author: InvictusGames Development Team
+version: ${git.build.version}-${git.commit.id.abbrev}
+description: Library plugin on which most other plugins on the server depend
+load: STARTUP

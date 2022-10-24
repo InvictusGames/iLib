@@ -1,0 +1,4 @@
+main: cc.invictusgames.ilib.ILibBungeePlugin
+name: iLib
+author: InvictusGames Development Team
+version: ${git.build.version}-${git.commit.id.abbrev}
